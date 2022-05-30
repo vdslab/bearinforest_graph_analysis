@@ -1,0 +1,101 @@
+Id,Label
+0,Title
+1,A Bayesian cognition approach for belief updating of correlation judgement through uncertainty visualizations
+2,A Design Space of Vision Science Methods for Visualization Research
+3,A Generic Framework and Library for Exploration of Small Multiples through Interactive Piling
+4,A Simple Pipeline for Coherent Grid Maps
+5,A Structured Review of Data Management Technology for Interactive Visualization and Analysis
+6,A Survey of Text Alignment Visualization
+7,Bayesian-Assisted Inference from Visualized Data
+8,Calliope: Automatic Visual Data Story Generation from a Spreadsheet
+9,Cartographic Relief Shading with Neural Networks
+10,Chartem: Reviving Chart Images with Data Embedding
+11,Chemicals in the Creek: designing a situated data physicalization of open government data with the community
+12,Communicative Visualizations as a Learning Problem
+13,"Comparative Layouts Revisited: Design Space, Guidelines, and Future Directions"
+14,Composition and Configuration Patterns in Multiple-View Visualizations
+15,Context-aware Sampling of Large Networks via Graph Representation Learning
+16,Data Comics for Reporting Controlled User Studies in Human-Computer Interaction
+17,Data Visceralization: Enabling Deeper Understanding of Data Using Virtual Reality
+18,Designing Narrative-Focused Role-Playing Games for Visualization Literacy in Young Children
+19,DRGraph: An Efficient Graph Layout Algorithm for Large-scale Graphs by Dimensionality Reduction
+20,Embodied Navigation in Immersive Abstract Data Visualization: Is Overview+Detail or Zooming Better for 3D Scatterplots?
+21,Exemplar-based Layout Fine-tuning for Node-link Diagrams
+22,Gemini: A Grammar and Recommender System for Animated Transitions in Statistical Graphics
+23,Guidelines For Pursuing and Revealing Data Abstractions
+24,Humane Visual AI: Telling the Stories Behind a Medical Condition
+25,Implicit Multidimensional Projection of Local Subspaces
+26,Insights From Experiments With Rigor in an EvoBio Design Study
+27,Introducing Layers of Meaning (LoM): A Framework to Reduce Semantic Distance of Visualization In Humanistic Research
+28,Investigating Visual Analysis of Differentially Private Data
+29,Kyrix-S: Authoring Scalable Scatterplot Visualizations of Big Data
+30,Lyra 2: Designing Interactive Visualizations by Demonstration
+31,MetroSets: Visualizing Sets as Metro Maps
+32,MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework
+33,Modeling the Influence of Visual Density on Cluster Perception in Scatterplots Using Topology
+34,"Multi-Perspective, Simultaneous Embedding"
+35,NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization from Natural Language Queries
+36,No mark is an island: Precision and category repulsion biases in data reproductions
+37,Palettailor: Discriminable Colorization for Categorical Data
+38,Personal Augmented Reality for Information Visualization on Large Interactive Displays
+39,PlotThread: Creating Expressive Storyline Visualizations using Reinforcement Learning
+40,QualDash: Adaptable Generation of Visualisation Dashboards for Healthcare Quality Improvement
+41,Rainbows Revisited: Modeling Effective Colormap Design for Graphical Inference
+42,Responsive Matrix Cells: A Focus+Context Approach for Exploring and Editing Multivariate Graphs
+43,Retrieve-Then-Adapt: Example-based Automatic Generation for Proportion-related Infographics
+44,Revealing Perceptual Proxies with Adversarial Examples
+45,Revisited: Comparison of Empirical Methods to Evaluate Visualizations Supporting Crafting and Assembly Purposes
+46,SafetyLens: Visual Data Analysis of Functional Safety of Vehicles
+47,Scalability of Network Visualisation from a Cognitive Load Perspective
+48,Semantic Discriminability for Visual Communication
+49,Sequence Braiding: Visual Overviews of Temporal Event Sequences and Attributes
+50,Shared Surfaces and Spaces: Collaborative Data Visualisation in a Co-located Immersive Environment
+51,ShuttleSpace: Exploring and Analyzing Movement Trajectory in Immersive Visualization
+52,SineStream: Improving the Readability of Streamgraphs by Minimizing Sine Illusion Effects
+53,Staged Animation Strategies for Online Dynamic Networks
+54,StructGraphics: Flexible Visualization Design through Data-Agnostic and Reusable Graphical Structures
+55,Table Scraps: An Actionable Framework for Multi-Table Data Wrangling From An Artifact Study of Computational Journalism
+56,The Effectiveness of Interactive Visualization Techniques for Time Navigation of Dynamic Graphs on Large Displays
+57,Towards Modeling Visualization Processes as Dynamic Bayesian Networks
+58,Truth or Square: Aspect Ratio Biases Recall of Position Encodings
+59,VisCode: Embedding Information in Visualization Images using Encoder-Decoder Network
+60,VisConnect: Distributed Event Synchronization for Collaborative Visualization
+61,Visual Analysis of Discrimination in Machine Learning
+62,Visual Reasoning Strategies for Effect Size Judgments and Decisions
+63,What Makes a Data-GIF Understandable?
+64,Zoomless Maps: External Labeling Methods for the Interactive Exploration of Dense Point Sets at a Fixed Map Scale
+65,A Fluid Flow Data Set for Machine Learning and its Application to Neural Flow Map Interpolation
+66,A Suggestive Interface for Untangling Mathematical Knots
+67,A Testing Environment for Continuous Colormaps
+68,A Visualization Framework for Multi-scale Coherent Structures in Taylor-Couette Turbulence
+69,Advanced Rendering of Line Data with Ambient Occlusion and Transparency
+70,ChemVA: Interactive Visual Analysis of Chemical Compound Similarity in Virtual Screening
+71,Data-Driven Space-Filling Curves
+72,Deep Volumetric Ambient Occlusion
+73,Direct Volume Rendering with Nonparametric Models of Uncertainty
+74,Efficient and Flexible Hierarchical Data Layouts for a Unified Encoding of Scalar Field Precision and Resolution
+75,Extraction and Visualization of Poincare Map Topology for Spacecraft Trajectory Design
+76,Homomorphic-Encrypted Volume Rendering
+77,Improving the Usability of Virtual Reality Neuron Tracing with Topological Elements
+78,Interactive Black-Hole Visualization
+79,Interactive Visual Study of Multiple Attributes Learning Model of X-Ray Scattering Images
+80,Interactive Visualization of Atmospheric Effects for Celestial Bodies
+81,IsoTrotter: Visually Guided Empirical Modelling of Atmospheric Convection
+82,Localized Topological Simplification of Scalar Data
+83,Mode Surfaces of Symmetric Tensor Fields: Topological Analysis and Seamless Extraction
+84,Modeling in the Time of COVID-19: Statistical and Rule-based Mesoscale Models
+85,Objective Observer-Relative Flow Visualization in Curved Spaces for Unsteady 2D Geophysical Flows
+86,Polyphorm: Structural Analysis of Cosmological Datasets via Interactive Physarum Polycephalum Visualization
+87,Ray Tracing Structured AMR Data Using ExaBricks
+88,Sea of Genes: A Reflection on Visualising Metagenomic Data for Museums
+89,"The Mixture Graph-A Data Structure for Compressing, Rendering, and Querying Segmentation Histograms"
+90,TopoMap: A 0-dimensional Homology Preserving Projection of High-Dimensional Data
+91,"Uncertainty in Continuous Scatterplots, Continuous Parallel Coordinates, and Fibers"
+92,Uncertainty-Oriented Ensemble Data Visualization and Exploration using Variable Spatial Spreading
+93,V2V: A Deep Learning Approach to Variable-to-Variable Selection and Translation for Multivariate Time-Varying Data
+94,VC-Net: Deep Volume-Composition Networks for Segmentation and Visualization of Highly Sparse and Noisy Image Data
+95,Visual Analysis of Large Multivariate Scattered Data using Clustering and Probabilistic Summaries
+96,Visualization of Human Spine Biomechanics for Spinal Surgery
+97,A Visual Analytics Approach for Ecosystem Dynamics based on Empirical Dynamic Modeling
+98,"A Visual Analytics Approach for Exploratory Causal Analysis: Exploration, Validation, and Applications"
+99,"A Visual Analytics Approach to Debugging Cooperative, Autonomous Multi-Robot SystemsÅf Worldviews"
